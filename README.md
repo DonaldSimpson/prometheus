@@ -1,6 +1,8 @@
 # prometheus
 Dockerised version of prometheus.io
 
+-- this is not an HTML project, no matter what GitHub thinks :-)
+
 available on Docker Hub here:
 
 https://hub.docker.com/r/donaldsimpson/prometheus/
